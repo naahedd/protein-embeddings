@@ -1,0 +1,1 @@
+This project is a protein sequence analysis tool designed to simulate Multiple Sequence Alignments (MSA) and create meaningful numerical representations (embeddings) of protein sequences using a Transformer-based neural network model.
